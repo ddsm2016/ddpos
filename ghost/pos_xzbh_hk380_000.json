@@ -1,0 +1,17 @@
+{
+    "id": "POS_XZBH_HK380_000",
+    "name": "忻州百货收银机基础环境_HK380",
+    "desc": "应用镜像后，需要下载POS数据，然后选择终端号。",
+    "file": "",
+    "key": "",
+    "application": [
+        "ehd_pos_v9",
+        "oracle_8.1.7",
+        "pcaw_10.5",
+    ],
+    "environment": [
+        "c_winxp",
+        "j2re-1_4_2_01",
+        ".net_4.0"
+    ]
+}
